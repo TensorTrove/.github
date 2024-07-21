@@ -1,8 +1,8 @@
-# 🎪 Welcome to TensonTrove: The Greatest Show in Machine Learning! 🎭
+# 🎪 Welcome to TensorTrove: The Greatest Show in Machine Learning! 🎭
 
 ## 🎭 Who Are We?
 
-We're the mad scientists, the data whisperers, the neural network tamers of TensonTrove! We're not just another tech company - we're a full-blown ML circus, and we've got the juggling algorithms to prove it!
+We're the mad scientists, the data whisperers, the neural network tamers of TensorTrove! We're not just another tech company - we're a full-blown ML circus, and we've got the juggling algorithms to prove it!
 
 ## 🚀 Our Mission
 
@@ -34,7 +34,7 @@ Think you've got what it takes to be part of the greatest show in tech? We're al
 
 No experience in actual circus performance required (but it wouldn't hurt).
 
-## 🎉 The TensonTrove Promise
+## 🎉 The TensorTrove Promise
 
 We promise to always:
 - Keep our code cleaner than a clown's rubber chicken
@@ -46,8 +46,8 @@ We promise to always:
 
 Step right up to the TensonTrove big top! Where the bugs are squashed, the models are trained, and the coffee is always flowing. Join us in our three-ring circus of innovation, where we're always walking the tightrope between genius and insanity!
 
-Remember, at TensonTrove, we put the "fun" in "function" and the "laughter" in "multilayer perceptron". Don't ask us how, it's just part of our magic! 🎩✨
+Remember, at TensorTrove, we put the "fun" in "function" and the "laughter" in "multilayer perceptron". Don't ask us how, it's just part of our magic! 🎩✨
 
 ---
 
-Crafted with love, a sprinkle of madness, and a gallon of coffee by the TensonTrove troupe. May your algorithms be ever in your favor! 🍀
+Crafted with love, a sprinkle of madness, and a gallon of coffee by the TensorTrove troupe. May your algorithms be ever in your favor! 🍀
